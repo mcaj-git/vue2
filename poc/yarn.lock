@@ -1778,7 +1778,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/cli-plugin-babel@npm:~4.5.0":
+"@vue/cli-plugin-babel@npm:4.5.15":
   version: 4.5.15
   resolution: "@vue/cli-plugin-babel@npm:4.5.15"
   dependencies:
@@ -1795,7 +1795,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/cli-plugin-eslint@npm:~4.5.0":
+"@vue/cli-plugin-eslint@npm:4.5.15":
   version: 4.5.15
   resolution: "@vue/cli-plugin-eslint@npm:4.5.15"
   dependencies:
@@ -1832,7 +1832,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/cli-service@npm:~4.5.0":
+"@vue/cli-service@npm:4.5.15":
   version: 4.5.15
   resolution: "@vue/cli-service@npm:4.5.15"
   dependencies:
@@ -2607,7 +2607,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-eslint@npm:^10.1.0":
+"babel-eslint@npm:10.1.0":
   version: 10.1.0
   resolution: "babel-eslint@npm:10.1.0"
   dependencies:
@@ -3767,7 +3767,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.6.5":
+"core-js@npm:3.19.3, core-js@npm:^3.6.5":
   version: 3.19.3
   resolution: "core-js@npm:3.19.3"
   checksum: eaa7afd87411393a7b1637fd0813957f689e91007219b6a951a1fe1aa08edccfddbbfbb1acb281a76dbe90b42fe7768377289258d81ba46e13c9919527aee95a
@@ -4736,7 +4736,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-vue@npm:^6.2.2":
+"eslint-plugin-vue@npm:6.2.2":
   version: 6.2.2
   resolution: "eslint-plugin-vue@npm:6.2.2"
   dependencies:
@@ -4785,7 +4785,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^6.7.2":
+"eslint@npm:6.8.0":
   version: 6.8.0
   resolution: "eslint@npm:6.8.0"
   dependencies:
@@ -8649,15 +8649,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "poc@workspace:."
   dependencies:
-    "@vue/cli-plugin-babel": ~4.5.0
-    "@vue/cli-plugin-eslint": ~4.5.0
-    "@vue/cli-service": ~4.5.0
-    babel-eslint: ^10.1.0
-    core-js: ^3.6.5
-    eslint: ^6.7.2
-    eslint-plugin-vue: ^6.2.2
-    vue: ^2.6.11
-    vue-template-compiler: ^2.6.11
+    "@vue/cli-plugin-babel": 4.5.15
+    "@vue/cli-plugin-eslint": 4.5.15
+    "@vue/cli-service": 4.5.15
+    babel-eslint: 10.1.0
+    core-js: 3.19.3
+    eslint: 6.8.0
+    eslint-plugin-vue: 6.2.2
+    vue: 2.6.14
+    vue-template-compiler: 2.6.14
   languageName: unknown
   linkType: soft
 
@@ -11320,7 +11320,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-template-compiler@npm:^2.6.11":
+"vue-template-compiler@npm:2.6.14":
   version: 2.6.14
   resolution: "vue-template-compiler@npm:2.6.14"
   dependencies:
@@ -11337,7 +11337,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:^2.6.11":
+"vue@npm:2.6.14":
   version: 2.6.14
   resolution: "vue@npm:2.6.14"
   checksum: 23524a1bdca094d62cb3491a46317eed75184b5d61d28fa846ea5d2b241c1cc7084fc67ee259d47a50a6d0bbc33ecaceb7bb52bff81312fe7da07263f3419942
