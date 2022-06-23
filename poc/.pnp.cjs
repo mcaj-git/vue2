@@ -39,7 +39,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["@vue/cli-service", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["babel-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:10.1.0"],
-            ["core-js", "npm:3.19.3"],
+            ["core-js", "npm:3.23.2"],
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
@@ -5571,6 +5571,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["core-js", "npm:3.19.3"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:3.23.2", {
+          "packageLocation": "./.yarn/unplugged/core-js-npm-3.23.2-14b7b07d26/node_modules/core-js/",
+          "packageDependencies": [
+            ["core-js", "npm:3.23.2"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["core-js-compat", [
@@ -11083,7 +11090,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["@vue/cli-service", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["babel-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:10.1.0"],
-            ["core-js", "npm:3.19.3"],
+            ["core-js", "npm:3.23.2"],
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
