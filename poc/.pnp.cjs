@@ -39,7 +39,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["@vue/cli-service", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["babel-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:10.1.0"],
-            ["core-js", "npm:3.19.3"],
+            ["core-js", "npm:3.38.1"],
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
@@ -2736,7 +2736,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/babel-plugin-jsx", "npm:1.1.1"],
             ["@vue/babel-preset-jsx", "virtual:40ff9f9901549e1c50fe379b0be3ab8460e864796924c66a071d8ae01ee42818e6fa3c8d807145573399443df0d2be2973ece26641af1cea54c5b3adc46c96e0#npm:1.2.4"],
             ["babel-plugin-dynamic-import-node", "npm:2.3.3"],
-            ["core-js", "npm:3.19.3"],
+            ["core-js", "npm:3.38.1"],
             ["core-js-compat", "npm:3.19.3"],
             ["semver", "npm:6.3.0"],
             ["vue", null]
@@ -5565,10 +5565,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["core-js", [
-        ["npm:3.19.3", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.19.3-6f11d9f8bc/node_modules/core-js/",
+        ["npm:3.38.1", {
+          "packageLocation": "./.yarn/unplugged/core-js-npm-3.38.1-5a2a3b88ee/node_modules/core-js/",
           "packageDependencies": [
-            ["core-js", "npm:3.19.3"]
+            ["core-js", "npm:3.38.1"]
           ],
           "linkType": "HARD",
         }]
@@ -11083,7 +11083,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vue/cli-plugin-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["@vue/cli-service", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:4.5.15"],
             ["babel-eslint", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:10.1.0"],
-            ["core-js", "npm:3.19.3"],
+            ["core-js", "npm:3.38.1"],
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
