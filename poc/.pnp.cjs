@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
-            ["vue-template-compiler", "npm:2.6.14"]
+            ["vue-template-compiler", "npm:2.7.16"]
           ],
           "linkType": "SOFT",
         }]
@@ -3120,7 +3120,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
               "virtual:551bf2cd6815f6ca50ef7724835721c0859f31b78772397f20aba32ab8b4d06341683d320532b91e7656a9bf1555859842a07a5d9209919b24ad869b89280da2#npm:16.8.3"
             ]],
             ["vue-style-loader", "npm:4.1.3"],
-            ["vue-template-compiler", "npm:2.6.14"],
+            ["vue-template-compiler", "npm:2.7.16"],
             ["webpack", "virtual:e5dea9f828c8760cf79e65be4b5c12e0b4a400ad4831976ca49238b5abb5082b8bf655d778f9e88349456cfba8892a26ceb549e3e1748feb181ee36f7e03c333#npm:4.46.0"],
             ["webpack-bundle-analyzer", "npm:3.9.0"],
             ["webpack-chain", "npm:6.5.1"],
@@ -11087,7 +11087,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:6.8.0"],
             ["eslint-plugin-vue", "virtual:a835a149356c54372c5995e9cef452a23b40a0c3ad7302e5a074dd20ffa55870c28cabaeb0a28dc99b2bb347f8fbfdbf224780ac1d2d649e66be5bed47c81f42#npm:6.2.2"],
             ["vue", "npm:2.6.14"],
-            ["vue-template-compiler", "npm:2.6.14"]
+            ["vue-template-compiler", "npm:2.7.16"]
           ],
           "linkType": "SOFT",
         }]
@@ -14147,7 +14147,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["loader-utils", "npm:1.4.0"],
             ["vue-hot-reload-api", "npm:2.3.4"],
             ["vue-style-loader", "npm:4.1.3"],
-            ["vue-template-compiler", "npm:2.6.14"],
+            ["vue-template-compiler", "npm:2.7.16"],
             ["webpack", "virtual:e5dea9f828c8760cf79e65be4b5c12e0b4a400ad4831976ca49238b5abb5082b8bf655d778f9e88349456cfba8892a26ceb549e3e1748feb181ee36f7e03c333#npm:4.46.0"]
           ],
           "packagePeers": [
@@ -14193,10 +14193,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["vue-template-compiler", [
-        ["npm:2.6.14", {
-          "packageLocation": "./.yarn/cache/vue-template-compiler-npm-2.6.14-37e260577c-0d03f804ac.zip/node_modules/vue-template-compiler/",
+        ["npm:2.7.16", {
+          "packageLocation": "./.yarn/cache/vue-template-compiler-npm-2.7.16-f59aa20e7d-a0d52ecbb9.zip/node_modules/vue-template-compiler/",
           "packageDependencies": [
-            ["vue-template-compiler", "npm:2.6.14"],
+            ["vue-template-compiler", "npm:2.7.16"],
             ["de-indent", "npm:1.0.2"],
             ["he", "npm:1.2.0"]
           ],
